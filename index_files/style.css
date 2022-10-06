@@ -1,9 +1,15 @@
 
 
+
+
 #container1{
     background-color: blue;
 }
 
+#grad{
+  background-image: radial-gradient(circle at -17.51% 55.91%, #7471fa 0, #8c6af3 12.5%, 
+  #9f64eb 25%, #b05ce2 37.5%, #be55d8 50%, #ca4dcd 62.5%, #d545c2 75%, #de3eb7 87.5%, #e636ab 100%);
+}
 
 
 .bd-placeholder-img {
